@@ -1,4 +1,4 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
+<img src="artwork/originbx-logo_blck.png" width="200">
 
 # Contributor Covenant Code of Conduct
 

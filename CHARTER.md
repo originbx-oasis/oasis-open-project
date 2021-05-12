@@ -123,26 +123,13 @@ The project expects to launch with one repository for development of the initial
 ## 8. Project Leadership
 
 ### 8.1 Project Governing Board
-
-Per OASIS Open Project Rules, each OriginBX Sponsor organization may hold one voting seat on the PGB. The PGB will also include a member of the Technical Steering Committee. Initial OriginBX OASIS PGB members are expected to include: 
-
-- Todd R. Smith, Retired Global Trade Big 4 Principal; OriginBX founding board member; KYG Trade, LLC founder CEO.
-- Patrick D. O'Meara, Founder &amp; CEO Inveniam.IO a fintech firm. Advisor or principal in $3b in debt and ~$2b in equity transactions.
+Per OASIS Open Project Rules, each OriginBX Sponsor organization may hold one voting seat on the PGB. The PGB will also include a member of the Technical Steering Committee. The members of the Project Governing Board are listed in [PROJECT-GOVERNING-BOARD.md](PROJECT-GOVERNING-BOARD.md)
 
 ### 8.2  Sponsors
-
-Initial Sponsors include:
-
-- Accenture - https://www.accenture.com/us-en
-- CompTIA - https://www.comptia.org/home
-- Global Trade Professionals Alliance (GTPA) - https://www.gtpalliance.com/
-- Inveniam Capital Partners - https://inveniam.io/
-- KYG Trade, LLC
-- Origin Experts Group - https://www.originexpertsgroup.com/
-- Thompson Reuters - https://www.thomsonreuters.com/en.html
+Sponsors support the work of the OriginBX Open Project and have the option to have a representative on the Project Governing Board. Their support is gratefully acknowledge by OASIS and the members of the project. OriginBX Sponsors are lised in [SPONSORS.md](SPONSORS.md).
 
 ### 8.3 Other Contributors 
-Initial technical contributors include:
+Initial technical contributors are expected to include:
 
 - James Roberts, Retired Advisory Big 4 Principal and OriginBX TM
 Foundation Managing Director (Australia)

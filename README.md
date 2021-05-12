@@ -1,10 +1,20 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="400">
+<img src="artwork/originbx-logo_blck.png" width="400">
 
-# [Open Project name]
+# Origin Blockchain Exchange (OriginBX) OASIS Open Project Charter
 
-[Open Project name] is an [OASIS Open Project](https://oasis-open-projects.org/) [purpose statement goes here.]
+OriginBX is an [OASIS Open Project](https://oasis-open-projects.org/). The project is a neutral forum for diverse stakeholders to create high-quality interoperable specifications for determining, obtaining, and verifying digital global tax and trade attestations (“GTTAs”). Examples of GTTAs include:
 
-For more information on [Open Project short name], see the project's website at [url].
+- Certifications of origin for purposes of qualifying an imported good for preferential treatment under a free trade agreement;
+- Compliance with a government’s procurement policies (e.g., US Buy America Act), or avoiding non-preferential origin retaliatory tariffs (e.g., Section 301 China Tariffs);
+- Harmonized Tariff System (HTS) classifications;
+- Export controls;
+- Customs valuation;
+- Numerous participating government agency admissibility certifications (e.g., declarations for goods made without Forced Labor);
+- Intellectual property rights;
+- Sustainability; and,
+- Certifications of residency/tax residency certifications for global withholding tax compliance.
+
+For more information on OriginBX, see the project's website at https://originbx-oasis.org and the project's [charter](CHARTER.md).
 
 For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
 

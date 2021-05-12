@@ -116,8 +116,7 @@ USCBP Committee on Next Generation and Facilitation**: Addressing data elements 
 
 ## 6. Repositories and Licenses
 The project expects to launch with one repository for development of the initial code. The repository will be under the CC BY 4.0 open-source license.
-
-Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/legalcode)
+<!-- Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/legalcode) -->
 
 ## 7. Initial Contributions from Existing Work
 

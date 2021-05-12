@@ -6,7 +6,7 @@ ________________
 ## 1. Project Name
 
 ### 1.1 Full Name
-Origin Blockchain Exchange OASIS Open Project
+Origin Blockchain Exchange OASIS Open Project U+2605
 
 ### 1.2 Familiar Name
 originbx-oasis

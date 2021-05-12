@@ -1,6 +1,4 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
-
-_this is derived from the Ethereum governance file & open to editing to make more general or high level_
+<img src="artwork/originbx-logo_blck.png" width="200">
 
 # Governance
 

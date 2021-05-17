@@ -6,7 +6,7 @@ The <open-project-name> Project Governing Board sets overall strategic direction
 
 The members of the Project Governing Board for the <open-project-name> are: 
 
-- Todd R. Smith, KYG Trade
+- Todd R. Smith, KYG Trade (Chair)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)

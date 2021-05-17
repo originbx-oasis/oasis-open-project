@@ -9,6 +9,6 @@ The members of the Project Governing Board for the <open-project-name> are:
 - Todd R. Smith, KYG Trade
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
-- Oswald Kuyler, [International Chamber of Commerce]()
+- Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
 pending - Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/), [lisamcauley@gtpalliance.com](mailto:lisamcauley@gtpalliance.com) -->

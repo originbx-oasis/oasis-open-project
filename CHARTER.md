@@ -1,6 +1,6 @@
 <img src="artwork/originbx-logo_blck.png" width="200">
 
-# Origin Blockchain Exchange OASIS Open Project Charter
+# OriginBX Charter
 ________________
 
 ## 1. Project Name

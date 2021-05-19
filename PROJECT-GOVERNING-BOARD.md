@@ -4,7 +4,7 @@
 
 The <open-project-name> Project Governing Board sets overall strategic direction of the project and formally approves released work products. 
   
-PGB members include representatives of OriginBX sponsor organizations and representatives from the community at-large who serve on the Technical Steering Committee: 
+PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
 
 - Todd R. Smith, [KYG Trade](https://www.kyg.trade/) (Chair)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)

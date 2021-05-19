@@ -2,9 +2,9 @@
 
 # The <open-project-name> Project Governing Board (PGB)
 
-The <open-project-name> Project Governing Board sets overall strategic direction of the project and formally approves released work products. 
+The <open-project-name> Project Governing Board sets overall strategic direction of the project and formally approves released work products. PGB members include representatives of OriginBX sponsor organizations and representatives from the community at-large who serve on the Technical Steering Committee.
 
-The members of the Project Governing Board for the <open-project-name> are: 
+The members of the Project Governing Board are: 
 
 - Todd R. Smith, [KYG Trade](https://www.kyg.trade/) (Chair)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
@@ -12,3 +12,5 @@ The members of the Project Governing Board for the <open-project-name> are:
 - Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
 pending - Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/), [lisamcauley@gtpalliance.com](mailto:lisamcauley@gtpalliance.com) -->
+  
+  Interested in being part of the OriginBX PGB? Contact communications@oasis-open.org.

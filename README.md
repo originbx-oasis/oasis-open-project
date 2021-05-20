@@ -1,4 +1,4 @@
-<img src="artwork/originbx-logo_blck.png" width="400">
+<img src="artwork/OriginBX_OASIS_logo_blk_1.png" width="400">
 
 # Origin Blockchain Exchange (OriginBX) OASIS Open Project Charter
 

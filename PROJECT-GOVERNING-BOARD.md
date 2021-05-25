@@ -10,6 +10,7 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
+- Ben Stiling, [Amazon](https://www.amazon.com/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
 pending - Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/), [lisamcauley@gtpalliance.com](mailto:lisamcauley@gtpalliance.com) -->
   

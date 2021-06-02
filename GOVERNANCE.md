@@ -8,23 +8,23 @@ The work of the [Open Project name] community is governed by this document, in a
 
 The OriginBX project works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
 
-The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](link to pgb page). 
+The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](https://www.oasis-open.org/policies-guidelines/open-projects-process/#progression-of-project-work). 
 
 ## Community Roles and Leadership
 
 All members of the community must abide by all relevant OASIS policies including the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to adhere to the Code of Conduct can have consequences including being held no longer eligible to participate in the work.
 
-* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate Contributor License Agreements [add appropriate link] and conform to the Open Project policies. 
+* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate [individual Contributor License Agreement (i-CLA)](https://cla-assistant.io/originbx-oasis/oasis-open-project/), the [entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla) if appropriate, and conform to the Open Project policies. 
 
 * *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
 
-   TSC members must have submitted an individual CLA, and if representing an organization, that organization must have signed and submitted an entity CLA as well.
+   TSC members must have submitted an i-CLA, and if representing an organization, that organization must have signed and submitted an e-CLA as well.
 
    Each TSC has a chair or two co-chairs appointed by the PGB. The chair of a TSC is responsible for coordinating the committee's meetings, reviews, etc. The chair(s) should have a firm understanding of the technology under the TSC's purview, and the [skills of a Technical Project Manager](https://www.jobhero.com/technical-program-manager-job-description/).
 
 * *Project Governing Board (PGB)*: The PGB oversees the overall strategy and direction of the project as well as the work of the TSCs. The PGB has final approval via Special Majority Vote of project releases and Project Specifications and their submission to the members of OASIS as candidates for OASIS Standard.  
 
-   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](url to op rules).
+   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
 
    The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
 

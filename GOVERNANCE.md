@@ -6,7 +6,7 @@
 
 The work of the [Open Project name] community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
 
-The [Open Project name] works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
+The OriginBX project works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
 
 The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](link to pgb page). 
 

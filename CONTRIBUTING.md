@@ -1,4 +1,4 @@
-<img src="artwork/originbx-logo_blck.png" width="200">
+<img src="artwork/OriginBX_OASIS_logo_blk_1.png" width="200">
 
 # Contributing
 
@@ -6,7 +6,7 @@
 
 OriginBX is an OASIS Open Project and welcomes participation by anyone, whether affiliated with OASIS or not. Substantive contributions and feedback are invited from all parties, following the common conventions for participation in GitHub public repository projects.
 
-Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our Contributor License Agreement, generally at the time of first contribution. 
+Participation is expected to be consistent with our [Code of Conduct](./CODE-OF-CONDUCT.md), the licenses applicable for each repository, and the acceptance of our Contributor License Agreement, generally at the time of first contribution.
 
 ## How to Contribute
 
@@ -18,13 +18,13 @@ One of the best ways to communicate with the rest of the project contributors is
 
 ### Discussions and announcements
 
-Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](originbx-oasis@lists.oasis-open-projects.org). 
+Longer discussions can be taken up on the GitHub Discussions list or via the [mailing list](originbx-oasis@lists.oasis-open-projects.org).
 
-Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for Pull Requests. 
+Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for Pull Requests.
 
-The general mailing list requires that you subscribe before you can send. 
+The general mailing list requires that you subscribe before you can send.
 
-General announcements are posted to the general mailing list and may be posted to other communications channels as well. 
+General announcements are posted to the general mailing list and may be posted to other communications channels as well.
 
 ### Chat [optional]
 

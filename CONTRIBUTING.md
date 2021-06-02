@@ -22,7 +22,8 @@ Longer discussions can be taken up on the GitHub Discussions list or via the [ma
 
 Discussions are a relatively new feature in GitHub that function like a chat service. You can find the Discussions link next to the link for Pull Requests.
 
-The general mailing list requires that you subscribe before you can send.
+The general mailing list requires that you subscribe before you can send. To subscribe, send a blank email to originbx-oasis+subscribe@lists.oasis-open-projects.org and 
+reply to the confirmation email you receive. 
 
 General announcements are posted to the general mailing list and may be posted to other communications channels as well.
 

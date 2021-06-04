@@ -11,7 +11,7 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [International Chamber of Commerce (ICC)](https://iccwbo.org/) &bigstar;
 - [Inveniam Capital Partners](https://inveniam.io/)
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 
-- [Origin Experts Group](https://www.originexpertsgroup.com/} &bigstar;
+- [Origin Experts Group](https://www.originexpertsgroup.com/) &bigstar;
 - [Skuchain](https://www.skuchain.com/) &bigstar;
 - [Thompson Reuters](https://www.thomsonreuters.com/en.html)
 - [United Parcel Service (UPS)](https://www.ups.com/) &bigstar;

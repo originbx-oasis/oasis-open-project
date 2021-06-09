@@ -7,10 +7,11 @@ The Project Governing Board sets overall strategic direction for the OriginBX pr
 PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
 
 - Todd R. Smith, [KYG Trade](https://www.kyg.trade/) (Chair)
-- Ken Montgomery, [CompTIA](https://www.comptia.org/home)
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
-- Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
+- Ken Montgomery, [CompTIA](https://www.comptia.org/home)
+- Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
+- Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Chris Rubio, [UPS](https://www.ups.com/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 

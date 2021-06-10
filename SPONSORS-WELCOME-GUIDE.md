@@ -2,7 +2,7 @@
 
 # Getting Started as an Open Project Sponsor
 
-All organizations are welcome to support the Origin Blockchain Exchange (OriginBX) OASIS Open Project. If you want to become a sponsor, or if you haven’t sent in your OCA Sponsor Agreement yet, [contact OASIS for help on that](mailto:communications@oasis-open.org).
+All organizations are welcome to support the Origin Blockchain Exchange (OriginBX) OASIS Open Project. If you want to become a sponsor, or if you haven’t sent in your Sponsor Agreement yet, [contact OASIS for help on that](mailto:communications@oasis-open.org).
 
 Here are some ways to ensure you get the most out of your sponsorship.
 

@@ -12,7 +12,7 @@ Here are some ways to ensure you get the most out of your sponsorship.
 ## Be represented on the OriginBX Project Governing Board (PGB)
 Every OriginBX sponsor has the option to be represented on the project's PGB. General PGB responsibilities are described [here](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles).
 
-To be on the PGB, your organization will need to sign our [Entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla) and your representative will need to sign our Individual Contributor Licsnse Agreement (i-CLA).  Once you submit the CLAs, let the [OASIS Project Administrator](mailto:project-admin@oasis-open.org) know who your rep will be, and we’ll add them to the PGB roster, email group, and any other active forums.
+To be on the PGB, your organization will need to sign our [Entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla) and your representative will need to sign our Individual Contributor License Agreement (i-CLA). Once you submit the CLAs, let the [OASIS Project Administrator](mailto:project-admin@oasis-open.org) know who your rep will be, and we’ll add them to the PGB roster, email group, and any other active forums.
 
 Your representative will be subscribed to the PGB mailing list automatically. Other people from your organization may sign up as observers.
 

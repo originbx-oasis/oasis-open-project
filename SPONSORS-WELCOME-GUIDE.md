@@ -6,7 +6,7 @@ All organizations are welcome to support the Origin Blockchain Exchange (OriginB
 
 Here are some ways to ensure you get the most out of your sponsorship.
 
-## Get your logo added to the OriginBX website (originbx-oasis.org)
+## Get your logo added to the [OriginBX website](originbx-oasis.org)
 [Send us](member-services@oasis-open.org) your logo image, along with an associated URL. (A stacked or square version works better than horizontal.)  
 
 ## Be represented on the OriginBX Project Governing Board (PGB)

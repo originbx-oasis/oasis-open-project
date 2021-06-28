@@ -1,4 +1,4 @@
-<img src="artwork/originbx-logo_blck.png" width="200">
+<img src="OriginBX_OASIS_logo_blk_1.png" width="200">
 
 # Sponsors of OriginBX OASIS Open Project
 

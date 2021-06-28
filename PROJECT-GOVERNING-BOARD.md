@@ -10,11 +10,12 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
+- Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/)
 - Oswald Kuyler, [International Chamber of Commerce](https://iccwbo.org/)
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Chris Rubio, [UPS](https://www.ups.com/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
-pending - Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/), [lisamcauley@gtpalliance.com](mailto:lisamcauley@gtpalliance.com) -->
+ -->
   
   Interested in being part of the OriginBX PGB? Contact communications@oasis-open.org.

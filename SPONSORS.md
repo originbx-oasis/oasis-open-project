@@ -7,7 +7,7 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [Accenture](https://www.accenture.com/us-en) &bigstar; 
 - [Amazon](https://www.amazon.com/) &bigstar;
 - [CompTIA](https://www.comptia.org/home) &bigstar; 
-- [Global Trade Professionals Alliance (GTPA)](https://www.gtpalliance.com/)
+- [Global Trade Professionals Alliance (GTPA)](https://www.gtpalliance.com/) &bigstar;
 - [International Chamber of Commerce (ICC)](https://iccwbo.org/) &bigstar;
 - [Inveniam Capital Partners](https://inveniam.io/)
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 

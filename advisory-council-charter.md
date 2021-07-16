@@ -1,4 +1,4 @@
-# OriginBX OASIS Advisory Council- DRAFT
+# OriginBX OASIS Advisory Council
 
 The OriginBX OASIS Advisory Council’s mission is to help ensure a transparent and productive collaboration between trade policy makers and industry in defining a globally universal consistent message set that will facilitate the exchange of product and trade attribute data.  Advisory Council members are invited experts representing global tax and trade public policy setting organizations and government agencies. Each member brings unique and diverse perspectives for how the future of digital tax and trade attestation standards can be built for the betterment of all.
 
@@ -19,3 +19,5 @@ Members of the OriginBX OASIS Advisory Council:
 - Are invited to join the Advisory Council by the OriginBX OASIS Open Project PGB Chair after conferring with the other members of the PGB.
 - Generously contribute their time for the good of the community and are not paid by OASIS for their service.
 - Serve for two-year terms that may be renewed on mutual agreement.  AC members may resign their AC membership at any time for any reason.
+
+*This charter was approved by the OriginBX Project Governing Board on [15 July 2021](https://lists.oasis-open-projects.org/g/originbx-oasis-pgb/message/16).* 

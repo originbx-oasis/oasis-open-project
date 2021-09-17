@@ -15,6 +15,7 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Elizabeth Connell, [Thomson Reuters](https://www.thomsonreuters.com)
+- Mark ONeill, [tradefact](https://tradefact.co/)
 - Chris Rubio, [UPS](https://www.ups.com/)
 <!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
  -->

@@ -11,7 +11,6 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
-- Lisa McAuley, [Global Trade Professionals Alliance (GTPA)](http://www.gtpalliance.com/)
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Elizabeth Connell, [Thomson Reuters](https://www.thomsonreuters.com)

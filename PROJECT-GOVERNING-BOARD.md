@@ -11,12 +11,12 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
+- Michelle Stout, [Intel](https://www.intel.com)
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Elizabeth Connell, [Thomson Reuters](https://www.thomsonreuters.com)
 - Mark ONeill, [tradefact](https://tradefact.co/)
 - Chris Rubio, [UPS](https://www.ups.com/)
-<!-- removing Kevin Cuddeback, [Inveniam](https://inveniam.io/), [kcuddeback@inveniam.io](mailto:kcuddeback@inveniam.io) pending signing of the e-cla 
- -->
+
   
   Interested in being part of the OriginBX PGB? Contact communications@oasis-open.org.

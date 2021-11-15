@@ -9,6 +9,7 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [CompTIA](https://www.comptia.org/home) &bigstar; 
 - [IBM](https://www.ibm.com)
 - [International Chamber of Commerce (ICC)](https://iccwbo.org/) &bigstar;
+- [Intel](https://www.intel.com/) &bigstar;
 - [Inveniam Capital Partners](https://inveniam.io/)
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 
 - [Origin Experts Group](https://www.originexpertsgroup.com/) &bigstar;

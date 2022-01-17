@@ -15,5 +15,4 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [Origin Experts Group](https://www.originexpertsgroup.com/) &bigstar;
 - [Skuchain](https://www.skuchain.com/) &bigstar;
 - [Thomson Reuters](https://www.thomsonreuters.com/en.html) &bigstar;
-- [tradefact](https://tradefact.co/solutions/) &bigstar;
 - [United Parcel Service (UPS)](https://www.ups.com/) &bigstar;

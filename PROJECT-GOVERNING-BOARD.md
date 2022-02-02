@@ -13,6 +13,7 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
 - Michelle Stout, [Intel](https://www.intel.com)
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
+- Greta Villagran, [Pinary](https://www.pinaryinc.com/)
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Elizabeth Connell, [Thomson Reuters](https://www.thomsonreuters.com)
 - Chris Rubio, [UPS](https://www.ups.com/)

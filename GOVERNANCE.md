@@ -2,19 +2,19 @@
 
 # Governance
 
-## Overview 
+## Overview
 
 The work of the OriginBX community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
 
 The OriginBX project works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
 
-The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](https://www.oasis-open.org/policies-guidelines/open-projects-process/#progression-of-project-work). 
+The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](https://www.oasis-open.org/policies-guidelines/open-projects-process/#progression-of-project-work).
 
 ## Community Roles and Leadership
 
 All members of the community must abide by all relevant OASIS policies including the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to adhere to the Code of Conduct can have consequences including being held no longer eligible to participate in the work.
 
-* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate [individual Contributor License Agreement (i-CLA)](https://cla-assistant.io/originbx-oasis/oasis-open-project/), the [entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla) if appropriate, and conform to the Open Project policies. 
+* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate [individual Contributor License Agreement (i-CLA)](https://cla-assistant.io/originbx-oasis/oasis-open-project/), the [entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla) if appropriate, and conform to the Open Project policies.
 
 * *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
 
@@ -28,7 +28,7 @@ All members of the community must abide by all relevant OASIS policies including
 
    The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
 
-* *Maintainers*: Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences. They demonstrate commitment to the success of the project and provide technical leadership that is broadly respected by the community. 
+* *Maintainers*: Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences. They demonstrate commitment to the success of the project and provide technical leadership that is broadly respected by the community.
 
    At least one Maintainer must be identified by the PGB at the start of the project. In cooperation with the community and the initial Maintainers, the Technical Steering Committee may recommend additional Maintainer(s) to the PGB.
 
@@ -46,7 +46,7 @@ All members of the community must abide by all relevant OASIS policies including
 
 To start a new TSC, there must be:
 
-* a request from at least three sponsoring organizations who commit to participate, and 
+* a request from at least three sponsoring organizations who commit to participate, and
 * a named Chair and Co-Chair who have agreed to serve in the role
 
 Ideally, a proposed TSC will have at least 5 initial participants.
@@ -60,7 +60,7 @@ To be considered _active_, a TSC must satisfy the following heartbeat requiremen
 
 Any TSC failing to meet one or more of the above heartbeat requirements is considered _inactive_.
 
-A TSC considered inactive can resume activity at any time. The project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations. 
+A TSC considered inactive can resume activity at any time. The project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations.
 
 Note that the PGB may permit the formation or continuation of a TSC that does not meet the above requirements.
 
@@ -74,17 +74,17 @@ Any TSC which is inactive may be closed with a Full Majority Vote.
 
 A TSC which has been inactive for at least 6 consecutive months may be closed with a Simple Majority Vote.
 
-Note that closing a TSC ends any conference calls and specification editing privileges but the project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations. 
+Note that closing a TSC ends any conference calls and specification editing privileges but the project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations.
 
 ## Decision Making
 
 Everyday TSC decisions will be reached by [lazy consensus](https://communitymgt.fandom.com/wiki/Lazy_consensus). Editors are empowered to implement the consensus of a TSC as they see it. The TSC chair is empowered to direct the Editor(s) to make a change reflecting a decision of the TSC.
 
-If the chairs of a TSC determine that consensus is not possible, then the TSC will not publish any output. 
+If the chairs of a TSC determine that consensus is not possible, then the TSC will not publish any output.
 
 Any TSC lazy consensus decision can be overturned by a 2/3 majority vote of the PGB at the request of a TSC member. However, the PGB is not required to take up the request.
 
-The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or from an apparent "[branch-stacking](https://en.wikipedia.org/wiki/Branch_stacking)" (aka Room Packing) exercise. 
+The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or from an apparent "[branch-stacking](https://en.wikipedia.org/wiki/Branch_stacking)" (aka Room Packing) exercise.
 
 Lazy consensus does not apply to certain decisions of the PGB, as defined elsewhere in this document and in the Open Projects Process.
 
@@ -98,7 +98,7 @@ Lazy consensus does _not_ apply to some PGB decisions, including:
 
 * Appointing or Removing TSC chairs or PGB Members
 * Removing TSC Members
-* Moving a release or a specification draft to the OASIS standards track process. 
+* Moving a release or a specification draft to the OASIS standards track process.
 
 ## Proposal Process
 Large changes, including new features, should be introduced by a written proposal. This allows members of the community to weigh in on the concept (including the technical details), share their comments, ideas, and use cases, and offer to help. It also ensures that members are not duplicating work or inadvertently stepping on each other's toes by making large conflicting changes.
@@ -136,23 +136,30 @@ Each TSC specification will only be considered complete when:
 
 ## Contributor Obligations
 
-Contributors to any TSC project must abide by the [OASIS Open Projects IPR Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md) and to the applicable open source license listed in the LICENSE.md file. 
+Contributors to any TSC project must abide by the [OASIS Open Projects IPR Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md) and to the applicable open source license listed in the LICENSE.md file.
 
-All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](<bot url>) and patent non-assertion covenant. If you have questions about these policies, please contact the [OASIS Project Administrator](project-admin@oasis-open.org). 
+All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](<bot url>) and patent non-assertion covenant. If you have questions about these policies, please contact the [OASIS Project Administrator](project-admin@oasis-open.org).
 
 All participants must also abide by the terms of the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md).
 
+## Working Groups
+
+The OriginBX OASIS Open Project intends to accomplish much of its technical work through industry-segment Working Groups. These Working Groups operate under the same rules that govern Technical Steering Committees in [the OASIS Open Project rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/#technical-steering-committee).
+
+* A Working Group (WG) is established by a resolution of the OriginBX Project Governing Board (PGB).
+
+* A Working Group is made up of Voting Members (VM). (See following bullets for details on VMs.) No entity may have more than one Voting Member on a Working Group.
+  * Each OriginBX OP Sponsor can appoint one representative (employee or contractor) to be a  Voting Member on any Working Group of interest to their organization (no limit to how many WGs a Sponsor or Sponsor’s representative may join).
+  * In addition, the OriginBX PGB may appoint up to two Voting Members for each Working Group as at-large representatives from the community. These at-large seats are designed to ensure that non-commercial entities are represented in WGs.  
+  * Voting Members on WGs must have signed an i-CLA and, if they represent their employer, must ensure that an e-CLA is signed as well. (Note that all OriginBX Sponsors are required to sign an e-CLA in order to have a Voting Member of the PGB.)
+
+* Once the formation of a WG is approved, the PGB will appoint a person to act as a WG Convener. The Convener’s purpose will be to help organize the group and schedule and chair the first WG meeting. At the first meeting, the WG VMs will choose one or two chairs from their membership. Once the chair(s) are seated, the role of the Convener is completed.  
+
+Non-members are welcome to subscribe to WG mailing lists, participate in WG chat channels, and observe WG meetings.
+
+
 ## Updating Governance
 
-Substantive changes to this document may be made by a Special Majority Vote of the PGB. Proposed changes should be made as Pull Requests on this document. Votes should be cast as reviews - approve or request changes. 
+Substantive changes to this document may be made by a Special Majority Vote of the PGB. Proposed changes should be made as Pull Requests on this document. Votes should be cast as reviews - approve or request changes.
 
 If a PR is 7 days old, and there are sufficient reviews that the next vote meets the requirements for approving a change, that voter can merge the PR.
-
-
-
-
-
-
-
-
-

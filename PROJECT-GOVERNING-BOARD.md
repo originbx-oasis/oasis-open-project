@@ -7,7 +7,7 @@ The Project Governing Board sets overall strategic direction for the OriginBX pr
 PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
 
 - **Todd R. Smith**, [KYG Trade](https://www.kyg.trade/) (Co-Chair)
-- **Oswald Kuyler**, [International Chamber of Commerce](https://iccwbo.org/) (Co-Chair)
+- **Oswald Kuyler** (Co-Chair)
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)

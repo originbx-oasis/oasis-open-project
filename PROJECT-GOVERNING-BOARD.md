@@ -11,6 +11,7 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Thomas Fahey, [Accenture](https://www.accenture.com/us-en)
 - Ben Stiling, [Amazon](https://www.amazon.com/)
 - Ken Montgomery, [CompTIA](https://www.comptia.org/home)
+- Hannah Nguyen, [International Chamber of Commerce](https://iccwbo.org/)
 - Michelle Stout, [Intel](https://www.intel.com)
 - Brian Staples, [Origin Experts Group](https://www.originexpertsgroup.com/)
 - Greta Villagran, [Pinary](https://www.pinaryinc.com/)

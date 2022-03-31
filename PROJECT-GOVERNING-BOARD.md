@@ -3,8 +3,10 @@
 # OriginBX Project Governing Board (PGB)
 
 The Project Governing Board sets overall strategic direction for the OriginBX project and formally approves released work products. 
+
+The members of the OriginBX Project Governing Board are listed at https://originbx-oasis.github.io/docs/
   
-PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
+<!-- PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
 
 - **Todd R. Smith**, [KYG Trade](https://www.kyg.trade/) (Co-Chair)
 - **Oswald Kuyler** (Co-Chair)
@@ -18,6 +20,6 @@ PGB members include representatives of [OriginBX sponsor organizations](https://
 - Srinivasan Sriram, [Skuchain, Inc](https://www.skuchain.com/)
 - Elizabeth Connell, [Thomson Reuters](https://www.thomsonreuters.com)
 - Chris Rubio, [UPS](https://www.ups.com/)
-
+-->
   
   Interested in being part of the OriginBX PGB? Contact communications@oasis-open.org.

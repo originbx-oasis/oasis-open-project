@@ -4,6 +4,8 @@
 
 The Project Governing Board sets overall strategic direction for the OriginBX project and formally approves released work products. 
 
+PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee.
+
 The members of the OriginBX Project Governing Board are listed at https://originbx-oasis.github.io/docs/
   
 <!-- PGB members include representatives of [OriginBX sponsor organizations](https://github.com/originbx-oasis/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 

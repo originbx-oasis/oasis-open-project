@@ -13,6 +13,7 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [Intel](https://www.intel.com/) &bigstar;
 - [Inveniam Capital Partners](https://inveniam.io/)
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 
+- [Mitsubishi Corporation (Americas)](https://www.mitsubishicorp.com/us/en/mca/)
 - [MonetaGo](https://www.monetago.com/) &bigstar;
 - [Origin Experts Group](https://www.originexpertsgroup.com/) &bigstar;
 - [Pinary](https://pinaryinc.com/home/) &bigstar;

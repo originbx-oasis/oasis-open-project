@@ -8,7 +8,6 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 - [Amazon](https://www.amazon.com/) &bigstar;
 - [CompTIA](https://www.comptia.org/home) &bigstar; 
 - [GS1](https://www.gs1.org/)
-- [IBM](https://www.ibm.com)
 - [International Chamber of Commerce (ICC)](https://iccwbo.org/) &bigstar;
 - [Intel](https://www.intel.com/) &bigstar;
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 

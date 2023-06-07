@@ -6,7 +6,6 @@ OASIS Open and the OriginBX community thank the following organizations who gene
 
 - [Accenture](https://www.accenture.com/us-en) &bigstar; 
 - [Amazon](https://www.amazon.com/) &bigstar
-- [International Chamber of Commerce (ICC)](https://iccwbo.org/) &bigstar;
 - [Intel](https://www.intel.com/) &bigstar;
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 
 - [Mitsubishi Corporation (Americas)](https://www.mitsubishicorp.com/us/en/mca/)

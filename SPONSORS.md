@@ -5,7 +5,6 @@
 OASIS Open and the OriginBX community thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on. Starred organizations have taken the additional step of signing the enterprise contributor license agreement and seating a representative on the Project Governing Board. 
 
 - [Accenture](https://www.accenture.com/us-en) &bigstar; 
-- [Amazon](https://www.amazon.com/) &bigstar
 - [Intel](https://www.intel.com/) &bigstar;
 - [KYG Trade, LLC](https://www.kyg.trade/) &bigstar; 
 - [Mitsubishi Corporation (Americas)](https://www.mitsubishicorp.com/us/en/mca/)

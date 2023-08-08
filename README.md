@@ -28,6 +28,8 @@ In addition to this GitHub organization, this project also makes use of other as
 
 - [Project Governing Board mailing list](https://lists.oasis-open-projects.org/g/originbx-oasis-pgb/topics). This is the discussion list for use by the members of the PGB. Anyone interested is welcome to subscribe read-only. To subscribe, send an empty email message to originbx-oasis-pgb+subscribe@lists.oasis-open-projects.org.
 
+- An [OriginBX Google Drive](https://drive.google.com/drive/folders/0AC0bWa7cvzvIUk9PVA) is an informal scratchpad for project work. Permission may be needed to review the contents. 
+
 <!-- [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive). -->
 
 # Contributing
